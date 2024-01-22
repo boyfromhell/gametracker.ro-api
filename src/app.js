@@ -36,11 +36,11 @@ app.get('/info/:game/:ip', async (req, res) => {
         port
     }).then((state) => {
         response = state;
-        console.log(state);
+        //console.log(state);
     })
         .catch((error) => {
             response = 'Server is offline';
-            console.log("Server is offline");
+            //console.log("Server is offline");
         });
 
     res.send({

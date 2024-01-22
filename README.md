@@ -23,7 +23,7 @@ higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/boyfromhell/gametracker.ro-api gametrack.ro-api
+$ git clone https://github.com/boyfromhell/gametracker.ro-api gametracker.ro-api
 
 # Go into the repository
 $ cd gametracker.ro-api

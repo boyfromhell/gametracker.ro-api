@@ -1,0 +1,18 @@
+{
+  "name": "gamedig-api",
+  "version": "1.0.0",
+  "description": "Get information about your favorite server without enter in game",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "IchBin",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "gamedig": "^4.3.1",
+    "marked": "^11.1.1",
+    "serve-favicon": "^2.5.0"
+  }
+}

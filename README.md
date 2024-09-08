@@ -1,5 +1,5 @@
 <h1 align="center">
-    Gamedig API
+    GameTracker API
 </h1>
 
 <h4 align="center">
